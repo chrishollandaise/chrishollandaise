@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust and Embedded Systems**
 
-- 💬 Ask me about **Celery, Scheduling, Web Responsiveness**
+- 💬 Ask me about **Microservices, Scheduling, Web Responsiveness**
 
 - 📫 How to reach me **chris@chrismholland.com**
 
